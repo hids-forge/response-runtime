@@ -1,0 +1,6 @@
+.env
+dist/
+build/
+/active-response
+/emergency-response
+plan.md
